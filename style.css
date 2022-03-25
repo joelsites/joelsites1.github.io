@@ -1,0 +1,24 @@
+body {
+  background: white;
+}
+img{
+  height: 100px;
+  width: 100px;
+}
+
+li{
+  color:blue;
+}
+  
+ .all:hover {
+  }
+  
+
+.qr:hover {
+  border-radius: 100px;
+  background-image: url("club.png");
+
+}
+
+
+
